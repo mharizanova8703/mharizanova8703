@@ -2,8 +2,9 @@
 
 <h2> Hey there! I'm Mariya.</h2>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
@@ -12,7 +13,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently fullstack developer student in GA TECH .
  🌱 I’m currently learning  JavaScript , HTML , CSS 
-- ⚡ Fun fact;
+- ⚡ Fun fact; I LOVE WhiteSnake 🎵
 
 <h3> 🛠 Tech Stack</h3>
 
@@ -30,12 +31,24 @@
 
 
 <br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<br/>
-
-<h3> 🤝🏻 Connect with Me </h3>        
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mariya-harizanova-a9651b219" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mariya-harizanova-a9651b219?trk=profile-badge">Mariya Harizanova</a></div>
-              
-
+<h3> 🤝🏻 Connect with Me </h3>       
  ✉️  mharizanova8703@gmail.com
-</p>
+ 
+ <button class="btn btn-outline-warning"><a
+                                href="https://www.linkedin.com/in/mariya-harizanova-a9651b219/">Linkedin</a> </button>
+                       
+
+
+---
+<!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+
