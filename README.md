@@ -13,7 +13,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently fullstack developer student in GA TECH .
  🌱 I’m currently learning  JavaScript , HTML , CSS 
-- ⚡ Fun fact; I LOVE WhiteSnake 🎵
+- ⚡ Fun fact: I LOVE the Rock Band WhiteSnake 🎵
+
+* :apple: Beginner mindset (**open to learning**)
+* :purple_heart: Kind people are my kinda people
+
+
 
 <h3> 🛠 Tech Stack</h3>
 
@@ -33,7 +38,8 @@
 <br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<h3> 🤝🏻 Connect with Me </h3>       
+## Find me around the WWW🌎: 
+
  ✉️  mharizanova8703@gmail.com
  
  <button class="btn btn-outline-warning"><a
