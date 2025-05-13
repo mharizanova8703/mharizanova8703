@@ -24,26 +24,28 @@
 
 <h3> 🛠 Tech Stack</h3>
 
-- 🌐 &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
-![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1976D2)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
-![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe&logoColor=FF0000)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC)
-![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=greensock&logoColor=88CE02)
+🌐 &nbsp;
+<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" height="35">
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" height="35">
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="35">
+<img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699" height="35">
+<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" height="35">
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="35">
+<img src="https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D" height="35">
+<img src="https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1976D2" height="35">
+<img src="https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20" height="35">
+<img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E" height="35">
+<img src="https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe&logoColor=FF0000" height="35">
+<img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC" height="35">
+<img src="https://img.shields.io/badge/-GSAP-333333?style=flat&logo=greensock&logoColor=88CE02" height="35">
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+⚙️ &nbsp;
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="35">
+<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="35">
+
+🔧 &nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="35">
+
 
 
 <br/>
