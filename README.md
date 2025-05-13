@@ -13,7 +13,7 @@
 
 - 🤔 &nbsp; Passionate about exploring new technologies and building creative software solutions.
 - 🎓 &nbsp; Currently enrolled in the Full-Stack Developer program at GA Tech.
-- 🌱 &nbsp; Actively learning JavaScript, HTML, CSS — and diving deeper into Vue.js, Quasar Framework, and GSAP for dynamic frontend experiences.
+- 🌱 &nbsp; Actively learning  and diving deeper into Vue.js, Quasar Framework, and GSAP for dynamic frontend experiences.
 - ⚡ &nbsp; Fun fact: I’m a huge fan of the rock band Whitesnake! 🎵
 
 
