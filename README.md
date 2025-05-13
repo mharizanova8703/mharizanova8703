@@ -1,6 +1,7 @@
 
 
-<h2> Hey there! I'm Mariya.</h2>
+<h2>Hello, I'm Mariya — a Frontend Developer passionate about building interactive web experiences.</h2>
+
 
 
 
@@ -10,10 +11,11 @@
 
 <h3> 👩🏼‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently fullstack developer student in GA TECH .
- 🌱 I’m currently learning  JavaScript , HTML , CSS 
-- ⚡ Fun fact: I LOVE the Rock Band WhiteSnake 🎵
+- 🤔 &nbsp; Passionate about exploring new technologies and building creative software solutions.
+- 🎓 &nbsp; Currently enrolled in the Full-Stack Developer program at GA Tech.
+- 🌱 &nbsp; Actively learning JavaScript, HTML, CSS — and diving deeper into Vue.js, Quasar Framework, and GSAP for dynamic frontend experiences.
+- ⚡ &nbsp; Fun fact: I’m a huge fan of the rock band Whitesnake! 🎵
+
 
 * :apple: Beginner mindset (**open to learning**)
 * :purple_heart: Kind people are my kinda people
@@ -23,11 +25,20 @@
 <h3> 🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1976D2)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
+![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe&logoColor=FF0000)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC)
+![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=greensock&logoColor=88CE02)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -42,8 +53,20 @@
 
  ✉️  mharizanova8703@gmail.com
  
- <button class="btn btn-outline-warning"><a
-                                href="https://www.linkedin.com/in/mariya-harizanova-a9651b219/">Linkedin</a> </button>
+<!-- LinkedIn Button -->
+<button class="btn btn-outline-warning me-2">
+  <a href="https://www.linkedin.com/in/mariya-harizanova-a9651b219/" target="_blank" style="text-decoration: none; color: inherit;">
+    LinkedIn
+  </a>
+</button>
+
+<!-- Twitter (X) Button -->
+<button class="btn btn-outline-info">
+  <a href="https://x.com/mariya_hz" target="_blank" style="text-decoration: none; color: inherit;">
+    Twitter
+  </a>
+</button>
+
                        
 
 
